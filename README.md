@@ -19,8 +19,3 @@ O sistema permite:
 - Calcular o preço final de acordo com o tipo (simulando impostos e acréscimos)
 - Listar os produtos cadastrados
 
-## 🚀 Como rodar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/Igor-Vinis/Products-Control.git
